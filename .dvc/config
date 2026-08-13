@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://s3-test2-lfs/dvc-storage
+    region = ap-south-1
