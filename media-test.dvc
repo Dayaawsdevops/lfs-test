@@ -1,6 +1,0 @@
-outs:
-- md5: e340644cabfdf4970e64036a189a4db2.dir
-  size: 3145728000
-  nfiles: 6
-  hash: md5
-  path: media-test
