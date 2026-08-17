@@ -1,0 +1,5 @@
+outs:
+- md5: 9c5cd94f5f872eaef2c6965a89dd623b
+  size: 838860800
+  hash: md5
+  path: video2.mp4
