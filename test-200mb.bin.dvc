@@ -1,5 +1,0 @@
-outs:
-- md5: 3566de3a97906edb98d004d6b947ae9b
-  size: 209715200
-  hash: md5
-  path: test-200mb.bin
