@@ -1,0 +1,4 @@
+[lfs]
+    standalonetransferagent = lfs-s3
+[lfs "customtransfer.lfs-s3"]
+    path = lfs-s3
